@@ -28,10 +28,8 @@ GON_ideas = {
 		global_tax_modifier = 0.15
 		advisor_pool = 1
 	}
-	rangers_of_ithilien = {
-		leader_land_manuever = 1
+	rangers_of_ithilien = { #this idea should reflect in general the military prowess of Gondor and not just the archers of Ithilien
 		infantry_power = 0.15
-
 	}
 	holding_osgilliath = {
 		defensiveness = 0.25
