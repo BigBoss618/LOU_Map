@@ -98,9 +98,9 @@ stewardship_reform = {
 		have_had_reform = stewardship_reform
 	}
 	
-	modifiers = {
-		global_unrest = 1
-		stability_cost_modifier = 0.25
+	modifiers = {	
+		global_tax_modifier = 0.05
+		governing_capacity = 250	
 	}
 	
 	custom_attributes = {
